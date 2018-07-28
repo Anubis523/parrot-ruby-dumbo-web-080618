@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot optional = "Squawk!"
-  puts "Squawk!"
-  "Squawk!"
+  puts optional
+  optional
 end
